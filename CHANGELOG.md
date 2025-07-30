@@ -1,3 +1,11 @@
+# 0.27.0
+
+- See [performance updates in `tungstenite-rs`](https://github.com/snapview/tungstenite-rs/blob/master/CHANGELOG.md#0270).
+
+# 0.26.2
+
+- Update `tungstenite`, see [changes here](https://github.com/snapview/tungstenite-rs/blob/master/CHANGELOG.md#0262).
+
 # 0.26.1
 
 - Update `tungstenite` to address an issue that might cause UB in certain cases.
